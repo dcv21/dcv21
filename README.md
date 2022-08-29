@@ -1,7 +1,7 @@
 ### Hi there, I'm Viet 👋
 
 - 🔭 I’m currently working on web projects
-- 🌱 I’m currently learning how to learn
+- 🌱 I’m currently learning full-stack
 - ⚡ Fun fact: Microsoft Word = best IDE
 
 ### Languages and Tools:

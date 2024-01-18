@@ -1,8 +1,9 @@
 ### Hi there, I'm Viet 👋
 
-- 🔭 I’m currently working on web projects
-- 🌱 I’m currently learning full-stack
-- ⚡ Fun fact: Microsoft Word = best IDE
+- I make weird projects :P.
+- Doing embedded and ML projects for fun.
+- Self-taught, with free online courses.
+- ❤️ VSCode my beloved ❤️
 
 ### Languages and Tools:
 

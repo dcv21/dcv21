@@ -1,8 +1,7 @@
 ### Hi there, I'm Viet 👋
 
-- I make weird projects (most of them are private repos :P).
-- Doing embedded and ML projects for fun.
-- Self-taught, with free online courses.
+- Coding is my hobby.
+- Doing web, embedded, ML projects for fun.
 - ❤️ VSCode my beloved ❤️
 
 ### Languages and Tools:

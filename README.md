@@ -1,8 +1,4 @@
-### Hi there, I'm Viet 👋
-
-- Coding is my hobby.
-- Doing web, embedded, ML projects for fun.
-- ❤️ VSCode my beloved ❤️
+### ❤️ VSCode my beloved ❤️
 
 ### Languages and Tools:
 
